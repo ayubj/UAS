@@ -12,4 +12,3 @@ GAMBAR 2 menjelaskan penambahan model hp dan hargnya
 GAMBAR 3 menjelaskan pencarian hp
 
 ![9ce9bc9d-02ee-4e02-b86d-977d345dad31](https://github.com/ayubj/UAS/assets/121694556/ff564339-eb34-4636-aa36-a5329ce6e975)
-
